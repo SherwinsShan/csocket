@@ -1,0 +1,2 @@
+INCLUDE=-I./
+CFLAGS=
